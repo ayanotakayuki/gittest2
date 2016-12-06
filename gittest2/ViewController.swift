@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         //コードを記述１
         
-        
+        間違ったコード
     }
 
     override func didReceiveMemoryWarning() {
